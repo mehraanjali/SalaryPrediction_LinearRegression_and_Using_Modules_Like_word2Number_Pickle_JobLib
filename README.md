@@ -7,3 +7,9 @@ This simple small project utilizes linear regression to predict salary based on 
 ## Dataset
 
 The dataset used in this project, named "hiring.csv," contains information about job candidates, including their years of experience, test scores out of 10, interview scores out of 10, and their corresponding salaries in dollars. The goal of this project is to build a linear regression model that can predict salaries based on these factors.
+
+## Results
+
+The linear regression model successfully predicts salaries based on the provided factors. Users can input their years of experience, test scores, and interview scores to estimate their potential salary.
+
+The trained model can be saved and loaded for future use, making it convenient for salary predictions.
